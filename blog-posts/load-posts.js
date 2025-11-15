@@ -17,7 +17,7 @@ async function fetchWithRetry(url, retries = 2, delay = 300) {
 document.addEventListener("DOMContentLoaded", async () => {
   try {
     // 1. Load the index of posts
-    const postFolders = await fetchWithRetry("/blog-posts/posts-index.json");
+    const postFolders = await fetchWithRetry("blog-posts/posts-index.json");
 
     // 2. Select all cards
     const cards = document.querySelectorAll(".blog-card");
