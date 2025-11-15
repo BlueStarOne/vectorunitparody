@@ -2,28 +2,28 @@
 
 @font-face {
   font-family: 'Futura PT';
-  src: url('/style/futura-pt/FuturaCyrillicLight.ttf') format('truetype');
+  src: url('style/futura-pt/FuturaCyrillicLight.ttf') format('truetype');
   font-weight: 100;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Futura PT';
-  src: url('/style/futura-pt/FuturaCyrillicBook.ttf') format('truetype');
+  src: url('style/futura-pt/FuturaCyrillicBook.ttf') format('truetype');
   font-weight: 200;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Futura PT';
-  src: url('/style/futura-pt/FuturaCyrillicMedium.ttf') format('truetype');
+  src: url('style/futura-pt/FuturaCyrillicMedium.ttf') format('truetype');
   font-weight: 300;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Futura PT';
-  src: url('/style/futura-pt/FuturaCyrillicHeavy.ttf') format('truetype');
+  src: url('style/futura-pt/FuturaCyrillicHeavy.ttf') format('truetype');
   font-weight: 700;
   font-style: normal;
 }
